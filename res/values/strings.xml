@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EyeTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_sight_report">SightReportActivity</string>
+    <string name="report_title">Test Results</string>
+    <string name="correct">Correct:</string>
+    <string name="incorrect">Incorrect: </string>
+    <string name="prescription">Your Prescription:</string>
+    <string name="vision">Your Vision:</string>
+
+</resources>
